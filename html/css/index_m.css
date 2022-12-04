@@ -1,0 +1,24 @@
+
+
+article {
+    padding: 50px;
+    height: 1300px;
+}
+
+.at> .imgBox> li {
+    width: 100%;
+}
+
+.at> .imgBox> li> div {
+  height: 180px;
+
+}
+
+.at> .imgBox> li> p {
+
+
+}
+.at> .imgBox> li> .imgBox_text1 {
+    font-size: 1rem;
+    height: 50px;
+}
